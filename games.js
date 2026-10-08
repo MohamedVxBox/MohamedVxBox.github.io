@@ -12,10 +12,7 @@
 */
 
 const games = [
-  /*
-  مثال جاهز لإضافة لعبة:
   {
-     {
     name: "محمد ضياء الصعب Demons",
     description: "اهرب من الظلال وتحدى الأعداء!",
     category: "أكشن",
@@ -23,14 +20,6 @@ const games = [
     date: "2026-10-09",
     icon: "👹",
     play: "games/demons/index.html",
-    download: ""
-  } name: "اسم اللعبة",
-    description: "وصف قصير للعبة.",
-    category: "أكشن",
-    version: "1.0",
-    date: "2026-10-08",
-    icon: "🎮",
-    play: "games/my-game/index.html",
     download: ""
   }
   */
